@@ -11,7 +11,7 @@
 ### Описание проекта    
 Угадать загаданное компьютером число за минимальное число попыток.
 
-:arrow_up:[к оглавлению](https://github.com/eartzhi/HH_project?tab=readme-ov-file#%D0%BE%D0%B3%D0%BB%D0%B0%D0%B2%D0%BB%D0%B5%D0%BD%D0%B8%D0%B5)
+:arrow_up:[к оглавлению](https://github.com/eartzhi/HH_project/blob/main/README.md#%D0%BF%D1%80%D0%BE%D0%B5%D0%BA%D1%82-0-%D1%83%D0%B3%D0%B0%D0%B4%D0%B0%D0%B9-%D1%87%D0%B8%D1%81%D0%BB%D0%BE)
 
 
 ### Какой кейс решаем?    
@@ -31,22 +31,22 @@
 ### Краткая информация о данных
 рандомное число от 1 до 100
   
-:arrow_up:[к оглавлению](https://github.com/eartzhi/HH_project?tab=readme-ov-file#%D0%BE%D0%B3%D0%BB%D0%B0%D0%B2%D0%BB%D0%B5%D0%BD%D0%B8%D0%B5)
+:arrow_up:[к оглавлению](https://github.com/eartzhi/HH_project/blob/main/README.md#%D0%BF%D1%80%D0%BE%D0%B5%D0%BA%D1%82-0-%D1%83%D0%B3%D0%B0%D0%B4%D0%B0%D0%B9-%D1%87%D0%B8%D1%81%D0%BB%D0%BE)
 
 
 ### Этапы работы над проектом  
 Сели и написали
 
-:arrow_up:[к оглавлению](https://github.com/eartzhi/HH_project?tab=readme-ov-file#%D0%BE%D0%B3%D0%BB%D0%B0%D0%B2%D0%BB%D0%B5%D0%BD%D0%B8%D0%B5)
+:arrow_up:[к оглавлению](https://github.com/eartzhi/HH_project/blob/main/README.md#%D0%BF%D1%80%D0%BE%D0%B5%D0%BA%D1%82-0-%D1%83%D0%B3%D0%B0%D0%B4%D0%B0%D0%B9-%D1%87%D0%B8%D1%81%D0%BB%D0%BE)
 
 
 ### Результаты:  
 Среднее число попыток равно 5
 
-:arrow_up:[к оглавлению](https://github.com/eartzhi/HH_project?tab=readme-ov-file#%D0%BE%D0%B3%D0%BB%D0%B0%D0%B2%D0%BB%D0%B5%D0%BD%D0%B8%D0%B5)
+:arrow_up:[к оглавлению](https://github.com/eartzhi/HH_project/blob/main/README.md#%D0%BF%D1%80%D0%BE%D0%B5%D0%BA%D1%82-0-%D1%83%D0%B3%D0%B0%D0%B4%D0%B0%D0%B9-%D1%87%D0%B8%D1%81%D0%BB%D0%BE)
 
 
 ### Выводы:  
 Число попыток менее 20. Цель достигнута
 
-:arrow_up:[к оглавлению](https://github.com/eartzhi/HH_project?tab=readme-ov-file#%D0%BE%D0%B3%D0%BB%D0%B0%D0%B2%D0%BB%D0%B5%D0%BD%D0%B8%D0%B5)
+:arrow_up:[к оглавлению](https://github.com/eartzhi/HH_project/blob/main/README.md#%D0%BF%D1%80%D0%BE%D0%B5%D0%BA%D1%82-0-%D1%83%D0%B3%D0%B0%D0%B4%D0%B0%D0%B9-%D1%87%D0%B8%D1%81%D0%BB%D0%BE)
